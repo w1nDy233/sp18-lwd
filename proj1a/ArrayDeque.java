@@ -10,14 +10,14 @@ public class ArrayDeque<T> {
         tail=4;
         size=0;
     }
-    public ArrayDeque(ArrayDeque<T> other){
+    public ArrayDeque(ArrayDeque other){
         items=(T[]) new Object[other.items.length];
         System.arraycopy(other.items,0,items,0,other.items.length);
         front=other.front;
         tail=other.tail;
         size=other.size;
     }
-    public void resize(int capacity){
+    private void resize(int capacity){
         T[] tmp=(T[]) new Object[capacity];
         int p=(front+1)%items.length;
         int q=(capacity-1)/2;
