@@ -1,7 +1,6 @@
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
 public class IntListTest {
 
     /**
@@ -23,8 +22,8 @@ public class IntListTest {
     @Test
     public void testdSquareList() {
         IntList L = IntList.of(1, 2, 3);
-        IntList.dSquareList(L);
-        assertEquals(IntList.of(1, 4, 9), L);
+        IntList LL=IntList.squareListIterative(L);
+        assertEquals(IntList.of(1, 4, 9), LL);
     }
 
     /**
@@ -47,7 +46,6 @@ public class IntListTest {
         assertEquals(IntList.of(1, 2, 3), L);
         assertEquals(IntList.of(1, 4, 9), res);
     }
-
     @Test
     public void testDcatenate() {
         IntList A = IntList.of(1, 2, 3);
@@ -65,5 +63,4 @@ public class IntListTest {
         assertEquals(exp, IntList.catenate(A, B));
         assertEquals(IntList.of(1, 2, 3), A);
     }
-
 }
