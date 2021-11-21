@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf8660ea-0f3c-442a-ac10-85e6e37dc20e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedListDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj1b/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/out/production/proj1a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/out/production/proj1a/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/out/production/proj1a/proj1a.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/out/production/proj1a/proj1a.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/proj1a.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/proj1a.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestPalindrome.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Deque.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ArrayDeque.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LinkedListDeque.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/TestPalindrome.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/TestOffByOne.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PalindromeFinder.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/CharacterComparator.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="21DHqdVPoy0VcRfZCsd0VbbDD5F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javalib/xchart-3.3.0.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestPalindrome.testWordToDeque" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1b" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPalindrome" />
+      <option name="METHOD_NAME" value="testWordToDeque" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestPalindrome.testWordToDeque" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf8660ea-0f3c-442a-ac10-85e6e37dc20e" name="Changes" comment="" />
+      <created>1637468930587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637468930587</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
