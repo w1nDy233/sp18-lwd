@@ -119,5 +119,4 @@ public class SampleCreature extends Creature {
         double babyEnergy = energy * repEnergyGiven;
         return new SampleCreature(babyEnergy);
     }
-
 }

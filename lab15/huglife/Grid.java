@@ -1,10 +1,8 @@
 package huglife;
-
 import java.util.Queue;
 import java.util.ArrayDeque;
 import java.util.HashMap;
 import java.util.Map;
-
 /** Primary class for simulation of a HugLife world.
  *
  *  Only intended for use by the HugLife class (or something similar).
