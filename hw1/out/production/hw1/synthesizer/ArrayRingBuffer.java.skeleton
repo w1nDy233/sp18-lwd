@@ -11,7 +11,6 @@ public class ArrayRingBuffer<T>  {
     private int last;
     /* Array for storing the buffer data. */
     private T[] rb;
-
     /**
      * Create a new ArrayRingBuffer with the given capacity.
      */

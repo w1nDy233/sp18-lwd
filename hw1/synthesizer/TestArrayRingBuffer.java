@@ -1,4 +1,5 @@
 package synthesizer;
+import edu.princeton.cs.algs4.StdOut;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
@@ -9,11 +10,12 @@ import static org.junit.Assert.*;
 public class TestArrayRingBuffer {
     @Test
     public void someTest() {
-        //ArrayRingBuffer arb = new ArrayRingBuffer(10);
+
     }
 
     /** Calls tests for ArrayRingBuffer. */
     public static void main(String[] args) {
-        jh61b.junit.textui.runClasses(TestArrayRingBuffer.class);
+        ArrayRingBuffer<Double> arr=new ArrayRingBuffer<>(10);
+        StdOut.println(arr.peek());
     }
 } 
